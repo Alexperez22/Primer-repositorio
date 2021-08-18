@@ -1,2 +1,2 @@
 # Primer-repositorio
-Actividad 1 de programación visual
+Actividad 2 de programación visual
